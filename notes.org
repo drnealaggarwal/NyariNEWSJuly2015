@@ -9,11 +9,19 @@ The workflow I use for Nyari News is to set up all the text in an EMACS org file
 * Security
 * Environment
 - Neal to find and write-up an article as usual
+*** the write-up this time could be about a trip? One of my Tsavo trips?
+*** what other Environmental issue could we raise for NRWS time time around?
 * Maintenance
+- Neal still has the pics of the repair to the gate rail under barrier 3 that Manraj Matharu supplied. Perhaps an article on this could be produced if nothing comes through from members.
 * ICT
+- how about a write-up about on-line ed?
 * Staff profile
+- Karanja please suggest another staff member to profile and do what you did lasdt time getting me photos and a short bit of text. This time though just dump the photos into the repo (here) and I'll pull them myself.
 * Member profile
+- this was a flop last time. Perhaps we get rid of it altogether from future newsletters.
 * Advertising
+- confirm payment from Taipan Forex has been received.
 * various filler pages like
 ** Gallery
+ - don't have any more gallery photos in my possession. If you have any please dump them in here - in a directory of your own please, and I'll see what you've posted.
 ** Suggestions welcome
