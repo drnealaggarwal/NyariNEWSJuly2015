@@ -2,4 +2,6 @@ This is the repository for the next Nyari Newsletter - July 2015. If you are in 
 
 The notes.org file contains the text outline for the next newsletter. Those notes will be put into the layout. Please edit the notes.org file and add your contributions there. If you have images that might be of use in the next edition of the newsletter please dump those into your directory on your local machine and push the changes to this repo.
 
+EMACS is our tool for text editing, Adobe Indesign is used for layout.
+
 Neal
