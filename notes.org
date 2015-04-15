@@ -1,9 +1,14 @@
 The workflow I use for Nyari News is to set up all the text in an EMACS org file from which I then cut and paste into the layout. If you are in here helping me with the writing and have cloned my github repository then please edit this file and push to the repo as you work so I can see what you are doing. As a team develops I hope that we'll have others working on other areas and will not duplicate our efforts while still have GIT track all our changes. Thanks for your help. Here are the topic areas that we work on for each newsletter. Edit each section as needed.
 
 * Intro page
+** notes about the AGM
+- we need the new committee members
+- attendance
 * Finance
+- projects we are going to undertake this fiscal year
 * Security
 * Environment
+- Neal to find and write-up an article as usual
 * Maintenance
 * ICT
 * Staff profile
