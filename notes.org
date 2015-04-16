@@ -11,6 +11,11 @@ The workflow I use for Nyari News is to set up all the text in an EMACS org file
 - Neal to find and write-up an article as usual
 *** the write-up this time could be about a trip? One of my Tsavo trips?
 *** what other Environmental issue could we raise for NRWS time time around?
+*** write-up on Augur Buzzards for this issue
+- One of the iconic sounds of Nyari is the Augur Buzzard. We have 3 pairs regularly visiting Nyari. Oftentimes they can be seen hovering over the open fields and plots holding almost statinary in the air looking down for prey. They consume a lot of field mice and keep our estate free from these pests.
+- Pairs have noisy aerial displays, including outside the breeding season. The large (up to 1 m wide) stick nest is built in a tree or on a crag, and is often reused and enlarged in subsequent seasons. On the lake wall on Dr and Mrs Aggarwal's plot there is a nest that has now been used three times the Augurs raising five chicks to date. The first pair arrived in 1998 and they've been soaring over the estate all these years. Two creamy or bluish white eggs are laid and incubated by the female only, although food is brought to her on the nest by the male. The eggs hatch in about 40 days, and after a further 56–60 days they can attempt flight. At 70 days they become independent of the nest, but young birds may then be seen with the adult pair for some time. The diet of the Augur buzzard is mainly small ground mammals, but snakes, lizards, small ground birds, insects, and road-kill are also taken. Typically, the raptor drops on its prey from a perch or hover. http://en.wikipedia.org/wiki/Augur_buzzard
+
+NOTE: we have seen the melanistic version up in the coffee. Image from wikipedia in directory.
 * Maintenance
 - Neal still has the pics of the repair to the gate rail under barrier 3 that Manraj Matharu supplied. Perhaps an article on this could be produced if nothing comes through from members.
 * ICT
