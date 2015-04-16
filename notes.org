@@ -3,7 +3,7 @@ The workflow I use for Nyari News is to set up all the text in an EMACS org file
 * Intro page
 ** notes about the AGM
 - we need the new committee members
-- attendance
+- number who attended
 * Finance
 - projects we are going to undertake this fiscal year
 * Security
